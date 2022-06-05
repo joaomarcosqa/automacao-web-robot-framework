@@ -6,7 +6,7 @@ Documentation
 Library    SeleniumLibrary
 Library    String
 Library    FakerLibrary       locale=pt_BR
-Library    ../../../libs/UtilsLib.py
+Library    ../../libs/UtilsLib.py
 
 *** Variables ***
 ${BROWSER}      chrome
