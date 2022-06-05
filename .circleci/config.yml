@@ -201,6 +201,7 @@ steps:
           echo "Something went wrong; ChromeDriver could not be installed"
           exit 1
         fi
+        
       environment:
         ORB_PARAM_DRIVER_INSTALL_DIR: <<parameters.install-dir>>
       name: Install ChromeDriver
