@@ -11,5 +11,3 @@ robotframework-jsonlibrary
 robotframework-faker
 
 robotframework-jmeterlibrary
-
-chromedriver
